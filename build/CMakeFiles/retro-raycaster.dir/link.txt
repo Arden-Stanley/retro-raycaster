@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/retro-raycaster.dir/link.d "CMakeFiles/retro-raycaster.dir/src/main.c.o" "CMakeFiles/retro-raycaster.dir/src/map.c.o" "CMakeFiles/retro-raycaster.dir/src/window.c.o" -o retro-raycaster  -Wl,-rpath,/home/arden/Projects/retro-raycaster/build/lib/SDL lib/SDL/libSDL3.so.0.4.18

@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/arden/Projects/retro-raycaster/build/cmake_install.cmake",
+		"/home/arden/Projects/retro-raycaster/build/lib/SDL/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
